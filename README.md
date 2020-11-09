@@ -24,3 +24,9 @@
 #### 4.系统环境
 1. Python 3.7.6
 2. jupyter 6.0.3
+
+
+#### 5.参考
+1. [FAQ(常见问题解答)](https://blog.csdn.net/qq_41853758/article/details/82904927)
+2. [python-sklearn实现一个简易的智能问答机器人](https://blog.csdn.net/qq_26535271/article/details/100748210)
+3. [手把手教你用Python轻轻松松开发一个聊天机器人系统。](https://blog.csdn.net/weixin_42608414/article/details/88198594)
